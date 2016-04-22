@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#c9edf1"
+    tools:context="cn.studyjamscn.s1.sj32.huanghuiyun.West_intent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#f4c392"
+                android:text="西式插花"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/west_2"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/west_4"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#f4c392"
+                android:text="一、原理与要求：
+    西方式插花按观赏方向可分单面观赏花型和四面观赏花型。单面观赏是只能从正面观赏，多靠墙摆设，如三角型，扇型，倒T型，L型等。多面观赏则可从四面多角度观赏，多摆在餐桌或会议桌上，如半球型，水平型，圆锥型等。"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/west_3"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/west_5"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#f4c392"
+                android:text="2、插作步骤：
+
+    （1）先用骨架花插出花型骨架，定出花型高、宽、深等外型轮廓。
+
+  （2）定焦点，插焦点花。
+
+     （3）插主体花，一般先插轮廓线，再在轮廓线范围内插入其他花朵，完成花型主体。
+
+    （4）用填充花、衬叶填空，遮盖花泥。"/>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
