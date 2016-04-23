@@ -20,17 +20,31 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="#f4c392"
                 android:text="西式插花"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/west_2"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/west_4"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -38,15 +52,30 @@
                 android:text="一、原理与要求：
     西方式插花按观赏方向可分单面观赏花型和四面观赏花型。单面观赏是只能从正面观赏，多靠墙摆设，如三角型，扇型，倒T型，L型等。多面观赏则可从四面多角度观赏，多摆在餐桌或会议桌上，如半球型，水平型，圆锥型等。"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/west_3"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/west_5"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

@@ -22,11 +22,21 @@
                 android:layout_height="wrap_content"
                 android:text="直立型"
                 android:textSize="16sp"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/east_2"
                 android:scaleType="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
 
             <TextView
                 android:layout_width="wrap_content"
@@ -34,64 +44,124 @@
                 android:background="#f4c392"
                 android:text="①直立型第一主校直立在水盆左后角，第二主枝插在第一主枝左前方，向前倾斜50～60度。第三主枝插在第一主枝右前方向前倾斜45～50度。要点是主枝必须直立，第二第三主 枝则略带倾斜。直立型是盛花中的基本型式。"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="倾斜性"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/east_4"
                 android:scaleType="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#f4c392"
                 android:text="②倾斜型第一枝以70度倾斜插在水盆花器左前方(即上述直立型的副位)，第二枝直插在水盆右后角(即直立型主位)，第三主枝置倾斜，与直立型同。它的要点正好是直立型的主副位置互相调换，而主枝倾斜角度更大，所以又叫做“前立插”。"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="下垂型"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/east_3"
                 android:scaleType="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#f4c392"
                 android:text="③下垂型第一主枝位置如倾斜型，惟须由上垂下。第二主枝位置与倾斜型同。但要直立而不可倾斜，它的要点为三枝位置如倾斜型，但第一主枝不倾斜而须下垂，长度没有限制，看环境所需而定，第三主枝由倾斜而改为直立。"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="直上型"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/east_6"
                 android:scaleType="center"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#f4c392"
                 android:text="④直上型第一主枝直插在水盆花器中央，第二主枝直插在第一主枝之左前，第三枝直插第一主枝的右前方。它的要点与直立型相似，不过直上型的三枝主枝均插在中央，直上而不倾斜。"/>
 
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="对称型"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
 
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/east_5"
                 android:scaleType="center"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_margin="16dp"
+                android:background="#8cdaec"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
