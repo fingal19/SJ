@@ -49,8 +49,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#f4c392"
-                android:text="一、原理与要求：
-    西方式插花按观赏方向可分单面观赏花型和四面观赏花型。单面观赏是只能从正面观赏，多靠墙摆设，如三角型，扇型，倒T型，L型等。多面观赏则可从四面多角度观赏，多摆在餐桌或会议桌上，如半球型，水平型，圆锥型等。"/>
+                android:text="@string/原理"/>
 
             <View
                 android:layout_width="match_parent"
@@ -80,15 +79,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="#f4c392"
-                android:text="2、插作步骤：
-
-    （1）先用骨架花插出花型骨架，定出花型高、宽、深等外型轮廓。
-
-  （2）定焦点，插焦点花。
-
-     （3）插主体花，一般先插轮廓线，再在轮廓线范围内插入其他花朵，完成花型主体。
-
-    （4）用填充花、衬叶填空，遮盖花泥。"/>
+                android:text="@string/步骤"/>
         </LinearLayout>
     </ScrollView>
 
